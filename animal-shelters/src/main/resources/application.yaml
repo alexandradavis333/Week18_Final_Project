@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    username: animal_shelters
+    password: animal_shelters
+    url: jdbc:mysql://localhost:3306/animal_shelters
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    defer-datasource-initialization: true
+    
+  sql: 
+    init: 
+      mode: always
+      

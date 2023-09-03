@@ -1,0 +1,9 @@
+INSERT INTO amenity (amenity) VALUES ('dog shelter');
+INSERT INTO amenity (amenity) VALUES ('cat shelter');
+INSERT INTO amenity (amenity) VALUES ('rabbit shelter');
+INSERT INTO amenity (amenity) VALUES ('horse shelter');
+INSERT INTO amenity (amenity) VALUES ('gerbil shelter');
+INSERT INTO amenity (amenity) VALUES ('fish shelter');
+INSERT INTO amenity (amenity) VALUES ('turtle shelter');
+INSERT INTO amenity (amenity) VALUES ('reptile shelter');
+INSERT INTO amenity (amenity) VALUES ('bird shelter');
